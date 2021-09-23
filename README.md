@@ -1,0 +1,2 @@
+# oraimuna
+iskola gyakorló repository
